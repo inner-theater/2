@@ -192,9 +192,11 @@ function cancelExit() {
 }
 
 function goNext() {
+  // 必须选择当前题答案才能前进
+  if (!answers.value[current.value]) return
   if (isLast.value) {
     clearInterval(timer)
-    clearProgress() // 完成后清除进度
+    clearProgress()
     const result = answers.value.map((v, i) => ({
       ...questions.value[i],
       value: v,
@@ -204,7 +206,7 @@ function goNext() {
       path: `/result/${props.type}/${props.version}`,
       state: { answers: result, time: elapsed.value }
     })
-  } else if (answers.value[current.value]) {
+  } else {
     current.value++
     saveProgress()
   }
