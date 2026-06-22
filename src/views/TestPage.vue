@@ -65,6 +65,7 @@ const current = ref(0)
 const startTime = ref(Date.now())
 const elapsed = ref(0)
 const showExitModal = ref(false)
+let isSubmitting = false
 let timer = null
 
 const options = props.type === 'bigfive'
@@ -139,7 +140,8 @@ onBeforeUnmount(() => {
 
 // 拦截浏览器返回/路由离开
 onBeforeRouteLeave((to, from) => {
-  if (showExitModal.value) return true // 已经弹窗过了，允许离开
+  if (isSubmitting) return true  // 提交结果 → 放行
+  if (showExitModal.value) return true
   showExitModal.value = true
   return false
 })
@@ -201,6 +203,7 @@ function goNext() {
     }
     clearInterval(timer)
     clearProgress()
+    isSubmitting = true
     const result = answers.value.map((v, i) => ({
       ...questions.value[i],
       value: v,
