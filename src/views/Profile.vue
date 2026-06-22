@@ -16,7 +16,12 @@
         <div v-for="item in inProgress" :key="'p'+item.key" class="swipe-row">
           <button class="del-btn" @click.stop="removeProgress(item.key)">删除</button>
           <div class="hist-item in-progress"
-            @click="resumeTest(item)">
+            :style="{ transform: swipedId === item.key ? `translateX(-${delWidth}px)` : 'translateX(0)' }"
+            @click="resumeTest(item)"
+            @touchstart.prevent="onTouchStart($event, item.key)"
+            @touchmove.prevent="onTouchMove($event, item.key)"
+            @touchend.prevent="onTouchEnd(item.key)"
+            @mousedown.prevent="onMouseDown($event, item.key)">
             <span class="hist-type">{{ item.title }}</span>
             <span class="hist-progress">{{ item.current }}/{{ item.total }}</span>
           </div>
@@ -166,6 +171,7 @@ const inProgress = computed(() => {
 })
 
 function resumeTest(item) {
+  if (didSwipe || swipedId.value) return
   router.push(`/test/${item.type}/${item.version}`)
 }
 
