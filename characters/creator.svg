@@ -1,32 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
   <rect width="32" height="32" fill="#F0EDF5"/>
-  <!-- hair -->
-  <rect x="8" y="2" width="16" height="8" fill="#C4756B"/>
-  <rect x="6" y="3" width="4" height="6" fill="#C4756B"/>
-  <rect x="22" y="3" width="4" height="6" fill="#C4756B"/>
-  <rect x="7" y="9" width="3" height="2" fill="#C4756B"/>
-  <rect x="22" y="9" width="3" height="2" fill="#C4756B"/>
-  <!-- face -->
-  <rect x="12" y="6" width="8" height="10" fill="#F5D0C5"/>
-  <!-- eyes - thoughtful -->
-  <rect x="13" y="10" width="2" height="2" fill="#3A3550"/>
-  <rect x="17" y="10" width="2" height="2" fill="#3A3550"/>
-  <!-- mouth -->
-  <rect x="15" y="14" width="3" height="1" fill="#C4958E"/>
-  <!-- body -->
-  <rect x="10" y="16" width="12" height="9" fill="#D4B8C7"/>
-  <!-- paint palette left -->
+  <!-- hair - dark purple -->
+  <rect x="9" y="2" width="14" height="6" fill="#5A4A6A"/>
+  <rect x="7" y="3" width="3" height="4" fill="#5A4A6A"/>
+  <rect x="22" y="3" width="3" height="4" fill="#5A4A6A"/>
+  <rect x="7" y="7" width="4" height="2" fill="#5A4A6A"/>
+  <rect x="21" y="7" width="4" height="2" fill="#5A4A6A"/>
+  <!-- head -->
+  <rect x="11" y="5" width="10" height="10" fill="#F5D5C8"/>
+  <rect x="10" y="7" width="1" height="6" fill="#F5D5C8"/>
+  <rect x="21" y="7" width="1" height="6" fill="#F5D5C8"/>
+  <!-- front hair -->
+  <rect x="10" y="4" width="12" height="4" fill="#6B5B7B"/>
+  <rect x="9" y="5" width="2" height="3" fill="#6B5B7B"/>
+  <!-- eyes dreamy -->
+  <rect x="12" y="9" width="3" height="2" fill="#3A3A4A"/>
+  <rect x="17" y="9" width="3" height="2" fill="#3A3A4A"/>
+  <rect x="13" y="9" width="1" height="1" fill="#FFF"/>
+  <rect x="18" y="9" width="1" height="1" fill="#FFF"/>
+  <!-- subtle smile -->
+  <rect x="15" y="13" width="2" height="1" fill="#C48B7B"/>
+  <!-- blush -->
+  <rect x="10" y="12" width="2" height="1" fill="#E8B4B4"/>
+  <rect x="20" y="12" width="2" height="1" fill="#E8B4B4"/>
+  <!-- body - creative coral -->
+  <rect x="10" y="15" width="12" height="9" fill="#D4B4C7"/>
+  <rect x="9" y="16" width="1" height="4" fill="#D4B4C7"/>
+  <rect x="22" y="16" width="1" height="4" fill="#D4B4C7"/>
+  <rect x="13" y="15" width="2" height="2" fill="#F5F5F5"/>
+  <rect x="17" y="15" width="2" height="2" fill="#F5F5F5"/>
+  <!-- palette -->
   <rect x="3" y="17" width="7" height="5" fill="#DEB887"/>
-  <rect x="4" y="18" width="1" height="1" fill="#9B8EC4"/>
-  <rect x="5" y="18" width="1" height="1" fill="#E05A5A"/>
-  <rect x="4" y="19" width="1" height="1" fill="#89A89B"/>
-  <!-- brush right arm -->
-  <rect x="22" y="18" width="6" height="2" fill="#D4B8C7"/>
-  <rect x="26" y="16" width="2" height="4" fill="#8B7355"/>
+  <rect x="4" y="18" width="1" height="1" fill="#E05A5A"/>
+  <rect x="5" y="18" width="1" height="1" fill="#89A89B"/>
+  <rect x="4" y="19" width="1" height="1" fill="#9B8EC4"/>
+  <rect x="5" y="19" width="1" height="1" fill="#D4B8C7"/>
+  <rect x="4" y="20" width="1" height="1" fill="#FFD700"/>
+  <!-- brush -->
+  <rect x="22" y="18" width="6" height="1" fill="#8B7355"/>
+  <rect x="26" y="17" width="1" height="3" fill="#8B7355"/>
+  <!-- hands -->
+  <rect x="5" y="18" width="2" height="2" fill="#F5D5C8"/>
+  <rect x="20" y="19" width="2" height="2" fill="#F5D5C8"/>
+  <!-- pants -->
+  <rect x="11" y="24" width="4" height="5" fill="#5A4A6A"/>
+  <rect x="17" y="24" width="4" height="5" fill="#5A4A6A"/>
+  <!-- shoes -->
+  <rect x="11" y="29" width="4" height="2" fill="#6B5B7B"/>
+  <rect x="17" y="29" width="4" height="2" fill="#6B5B7B"/>
   <!-- sparkle -->
-  <rect x="26" y="10" width="2" height="2" fill="#FFD700"/>
-  <rect x="27" y="10" width="1" height="1" fill="#FFF8DC"/>
-  <!-- legs -->
-  <rect x="12" y="25" width="4" height="4" fill="#A0869E"/>
-  <rect x="17" y="25" width="4" height="4" fill="#A0869E"/>
+  <rect x="24" y="9" width="2" height="2" fill="#FFD700"/>
+  <rect x="25" y="9" width="1" height="1" fill="#FFF8DC"/>
 </svg>

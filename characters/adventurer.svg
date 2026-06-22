@@ -1,28 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
   <rect width="32" height="32" fill="#F0EDF5"/>
+  <!-- hair - sandy blonde -->
+  <rect x="9" y="3" width="14" height="5" fill="#C4A060"/>
+  <rect x="7" y="4" width="3" height="4" fill="#C4A060"/>
+  <rect x="22" y="4" width="3" height="4" fill="#C4A060"/>
+  <!-- head -->
+  <rect x="11" y="5" width="10" height="10" fill="#F5D5C8"/>
+  <rect x="10" y="7" width="1" height="6" fill="#F5D5C8"/>
+  <rect x="21" y="7" width="1" height="6" fill="#F5D5C8"/>
+  <!-- front hair -->
+  <rect x="10" y="4" width="12" height="3" fill="#D4B070"/>
   <!-- hat -->
-  <rect x="10" y="1" width="12" height="5" fill="#8B7355"/>
-  <rect x="8" y="3" width="4" height="4" fill="#8B7355"/>
-  <!-- face -->
-  <rect x="12" y="5" width="8" height="9" fill="#F5D0C5"/>
-  <!-- eyes -->
-  <rect x="13" y="8" width="2" height="2" fill="#3A3550"/>
-  <rect x="17" y="8" width="2" height="2" fill="#3A3550"/>
-  <!-- smile -->
-  <rect x="15" y="12" width="3" height="1" fill="#C4958E"/>
-  <!-- body -->
-  <rect x="10" y="14" width="12" height="9" fill="#89A89B"/>
-  <!-- backpack -->
-  <rect x="22" y="15" width="6" height="8" fill="#6B8B7A"/>
-  <rect x="24" y="18" width="2" height="2" fill="#5A7A6A"/>
+  <rect x="9" y="1" width="14" height="4" fill="#8B7355"/>
+  <rect x="8" y="2" width="2" height="3" fill="#8B7355"/>
+  <rect x="22" y="2" width="2" height="3" fill="#8B7355"/>
+  <!-- eyes bright -->
+  <rect x="12" y="9" width="3" height="2" fill="#3A3A4A"/>
+  <rect x="17" y="9" width="3" height="2" fill="#3A3A4A"/>
+  <rect x="13" y="9" width="1" height="1" fill="#FFF"/>
+  <rect x="18" y="9" width="1" height="1" fill="#FFF"/>
+  <!-- happy mouth -->
+  <rect x="14" y="12" width="4" height="2" fill="#C48B7B"/>
+  <!-- outdoor vest -->
+  <rect x="10" y="15" width="12" height="9" fill="#89A89B"/>
+  <rect x="9" y="16" width="1" height="4" fill="#89A89B"/>
+  <rect x="22" y="16" width="1" height="4" fill="#89A89B"/>
+  <!-- vest pocket -->
+  <rect x="14" y="18" width="4" height="2" fill="#7A9A8B"/>
+  <!-- neckline -->
+  <rect x="13" y="15" width="6" height="2" fill="#F5F5F5"/>
   <!-- arms -->
-  <rect x="5" y="16" width="5" height="2" fill="#89A89B"/>
+  <rect x="5" y="17" width="5" height="2" fill="#F5D5C8"/>
+  <rect x="22" y="17" width="5" height="2" fill="#F5D5C8"/>
   <!-- walking stick -->
-  <rect x="3" y="14" width="2" height="12" fill="#8B7355"/>
-  <!-- legs -->
-  <rect x="12" y="23" width="4" height="5" fill="#6B7B6A"/>
-  <rect x="17" y="23" width="4" height="5" fill="#6B7B6A"/>
+  <rect x="4" y="13" width="2" height="14" fill="#8B7355"/>
+  <rect x="3" y="13" width="1" height="14" fill="#7A6345"/>
+  <!-- backpack -->
+  <rect x="22" y="16" width="4" height="7" fill="#6B8B7A"/>
+  <rect x="23" y="17" width="2" height="5" fill="#5A7A6A"/>
+  <rect x="21" y="18" width="1" height="3" fill="#7A9A8A"/>
+  <!-- pants -->
+  <rect x="11" y="24" width="4" height="5" fill="#6B7B6A"/>
+  <rect x="17" y="24" width="4" height="5" fill="#6B7B6A"/>
   <!-- boots -->
-  <rect x="11" y="28" width="6" height="2" fill="#5A6A5A"/>
-  <rect x="16" y="28" width="6" height="2" fill="#5A6A5A"/>
+  <rect x="10" y="29" width="5" height="2" fill="#5A6A5A"/>
+  <rect x="17" y="29" width="5" height="2" fill="#5A6A5A"/>
 </svg>
