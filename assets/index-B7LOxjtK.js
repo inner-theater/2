@@ -43,23 +43,23 @@ Minimum version required to store current data is: `+o+`.
 
 在团队中，你是那个让所有人感到被接纳的人。你的宜人性极高，与人合作时总能找到共识。
 
-职场建议：你在教育、心理咨询、人力资源和社会工作等领域有天然优势。`,traits:["同理心强","善于倾听","团队协作者","温和包容"]},thinker:{id:"thinker",name:"思想者型",emoji:"◈",subtitle:"理性深邃 · 独立思考",character:`${Ae}characters/thinker.svg`,color:"#6B5B8E",description:`你是思想的深耕者。你享受独处的深度思考，对抽象概念和复杂问题有着浓厚兴趣。你开放而审慎，不盲从权威，习惯用理性和逻辑解构世界。
+职场建议：你在教育、心理咨询、人力资源和社会工作等领域有天然优势。`,traits:["同理心强","善于倾听","团队协作者","温和包容"]},thinker:{id:"thinker",name:"思想者型",emoji:"◈",subtitle:"理性深邃 · 独立思考",character:`${Ae}characters/thinker.png`,color:"#6B5B8E",description:`你是思想的深耕者。你享受独处的深度思考，对抽象概念和复杂问题有着浓厚兴趣。你开放而审慎，不盲从权威，习惯用理性和逻辑解构世界。
 
 社交中你保持选择性，倾向于和少数知己进行有质量的对话，而非泛泛而谈。你的情绪稳定，很少被外界波动影响。
 
-职场建议：学术研究、编程开发、战略分析等需要深度专注的领域是你的主场。你擅长从复杂信息中提炼洞见。`,traits:["逻辑缜密","独立思考","深度专注","情绪稳定"]},socializer:{id:"socializer",name:"社交者型",emoji:"★",subtitle:"热情开朗 · 感染力强",character:`${Ae}characters/socializer.svg`,color:"#D4B8C7",description:`你是人群中的阳光。你天生外向，拥有极强的社交能量和感染力，能在短时间内让周围人感到舒适和愉快。你乐观积极，擅长调动气氛。
+职场建议：学术研究、编程开发、战略分析等需要深度专注的领域是你的主场。你擅长从复杂信息中提炼洞见。`,traits:["逻辑缜密","独立思考","深度专注","情绪稳定"]},socializer:{id:"socializer",name:"社交者型",emoji:"★",subtitle:"热情开朗 · 感染力强",character:`${Ae}characters/socializer.png`,color:"#D4B8C7",description:`你是人群中的阳光。你天生外向，拥有极强的社交能量和感染力，能在短时间内让周围人感到舒适和愉快。你乐观积极，擅长调动气氛。
 
 你的宜人性很高，关心他人感受，乐于提供情感支持。不过有时可能过于关注外界反馈而忽略了自己的需求。
 
-职场建议：销售、公关、市场营销、活动策划等需要高频人际互动的岗位非常适合你。`,traits:["热情开朗","感染力强","乐观积极","善于共情"]},guardian:{id:"guardian",name:"守护者型",emoji:"▣",subtitle:"稳重可靠 · 恪尽职守",character:`${Ae}characters/guardian.svg`,color:"#5A6B6B",description:`你是秩序的维护者。你高度尽责，做事认真可靠，是团队中不可或缺的稳定力量。你重视传统和规则，对自己和他人都有较高标准。
+职场建议：销售、公关、市场营销、活动策划等需要高频人际互动的岗位非常适合你。`,traits:["热情开朗","感染力强","乐观积极","善于共情"]},guardian:{id:"guardian",name:"守护者型",emoji:"▣",subtitle:"稳重可靠 · 恪尽职守",character:`${Ae}characters/guardian.png`,color:"#5A6B6B",description:`你是秩序的维护者。你高度尽责，做事认真可靠，是团队中不可或缺的稳定力量。你重视传统和规则，对自己和他人都有较高标准。
 
 你对新事物持谨慎态度，更注重实际和可行性。在人际关系中，你忠诚而可靠，虽然不擅表达情感，但行动胜过千言万语。
 
-职场建议：行政管理、财务审计、工程管理、法律合规等需要严谨细致的领域是你的优势所在。`,traits:["稳重可靠","高度负责","务实严谨","忠诚坚定"]},creator:{id:"creator",name:"创造者型",emoji:"✦",subtitle:"想象丰富 · 情感细腻",character:`${Ae}characters/creator.svg`,color:"#C4756B",description:`你是一个充满灵感的人。你对美和意义有着敏锐的感知，内心世界丰富而细腻。你高度开放，乐于探索艺术、文化和哲学领域。
+职场建议：行政管理、财务审计、工程管理、法律合规等需要严谨细致的领域是你的优势所在。`,traits:["稳重可靠","高度负责","务实严谨","忠诚坚定"]},creator:{id:"creator",name:"创造者型",emoji:"✦",subtitle:"想象丰富 · 情感细腻",character:`${Ae}characters/creator.png`,color:"#C4756B",description:`你是一个充满灵感的人。你对美和意义有着敏锐的感知，内心世界丰富而细腻。你高度开放，乐于探索艺术、文化和哲学领域。
 
 你的情绪波动可能较明显，但这恰恰是你创造力的源泉。你能从自身的感受中汲取养分，转化为独特的表达。
 
-职场建议：艺术创作、设计、写作、影视、音乐等创意领域是你的天赋所在。你需要一个能包容你独特节奏的环境。`,traits:["想象力强","情感细腻","审美敏锐","创意无限"]},adventurer:{id:"adventurer",name:"探险家型",emoji:"★",subtitle:"自由奔放 · 勇于尝试",character:`${Ae}characters/adventurer.svg`,color:"#89A89B",description:`你是自由的追寻者。你对世界充满好奇，渴望新鲜体验和冒险。你不喜欢被规则束缚，更愿意追随内心的冲动去探索未知。
+职场建议：艺术创作、设计、写作、影视、音乐等创意领域是你的天赋所在。你需要一个能包容你独特节奏的环境。`,traits:["想象力强","情感细腻","审美敏锐","创意无限"]},adventurer:{id:"adventurer",name:"探险家型",emoji:"★",subtitle:"自由奔放 · 勇于尝试",character:`${Ae}characters/adventurer.png`,color:"#89A89B",description:`你是自由的追寻者。你对世界充满好奇，渴望新鲜体验和冒险。你不喜欢被规则束缚，更愿意追随内心的冲动去探索未知。
 
 你的外向性和开放性都很高，社交能力出众，但尽责性相对较低——你更看重体验过程而非结果。你活在当下，享受每一刻。
 
