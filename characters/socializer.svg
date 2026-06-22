@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <rect width="32" height="32" fill="#F0EDF5"/>
+  <!-- hair -->
+  <rect x="8" y="2" width="16" height="6" fill="#C4756B"/>
+  <rect x="6" y="4" width="4" height="3" fill="#C4756B"/>
+  <rect x="22" y="4" width="4" height="3" fill="#C4756B"/>
+  <!-- face -->
+  <rect x="12" y="5" width="8" height="10" fill="#F5D0C5"/>
+  <!-- eyes - happy squint -->
+  <rect x="13" y="9" width="3" height="2" fill="#3A3550"/>
+  <rect x="17" y="9" width="3" height="2" fill="#3A3550"/>
+  <!-- smile -->
+  <rect x="14" y="13" width="4" height="2" fill="#C4958E"/>
+  <!-- body -->
+  <rect x="10" y="15" width="12" height="10" fill="#D4B8C7"/>
+  <!-- arms - waving -->
+  <rect x="4" y="16" width="6" height="2" fill="#D4B8C7"/>
+  <rect x="22" y="18" width="6" height="2" fill="#D4B8C7"/>
+  <!-- heart -->
+  <rect x="3" y="11" width="2" height="1" fill="#E05A5A"/>
+  <rect x="2" y="12" width="4" height="2" fill="#E05A5A"/>
+  <rect x="2" y="14" width="4" height="2" fill="#E05A5A"/>
+  <rect x="3" y="16" width="2" height="1" fill="#E05A5A"/>
+  <!-- legs -->
+  <rect x="12" y="25" width="4" height="4" fill="#A0869E"/>
+  <rect x="17" y="25" width="4" height="4" fill="#A0869E"/>
+</svg>

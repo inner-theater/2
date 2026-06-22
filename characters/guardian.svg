@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <rect width="32" height="32" fill="#F0EDF5"/>
+  <!-- helmet -->
+  <rect x="10" y="2" width="12" height="8" fill="#7A8B8B"/>
+  <rect x="8" y="5" width="4" height="5" fill="#7A8B8B"/>
+  <rect x="20" y="5" width="4" height="5" fill="#7A8B8B"/>
+  <!-- face -->
+  <rect x="12" y="7" width="8" height="8" fill="#F5D0C5"/>
+  <!-- eyes -->
+  <rect x="13" y="10" width="2" height="2" fill="#3A3550"/>
+  <rect x="17" y="10" width="2" height="2" fill="#3A3550"/>
+  <!-- mouth - steady -->
+  <rect x="15" y="13" width="3" height="1" fill="#C4958E"/>
+  <!-- body armor -->
+  <rect x="8" y="15" width="16" height="10" fill="#5A6B6B"/>
+  <!-- shield -->
+  <rect x="18" y="17" width="8" height="10" fill="#9B8EC4"/>
+  <rect x="20" y="19" width="4" height="6" fill="#B8A8D8"/>
+  <!-- arms -->
+  <rect x="4" y="17" width="4" height="2" fill="#5A6B6B"/>
+  <!-- legs -->
+  <rect x="10" y="25" width="5" height="4" fill="#4A5B5B"/>
+  <rect x="16" y="25" width="5" height="4" fill="#4A5B5B"/>
+</svg>

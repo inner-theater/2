@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <rect width="32" height="32" fill="#F0EDF5"/>
+  <!-- beret -->
+  <rect x="10" y="1" width="12" height="5" fill="#E05A5A"/>
+  <rect x="8" y="3" width="4" height="4" fill="#E05A5A"/>
+  <rect x="20" y="3" width="4" height="4" fill="#E05A5A"/>
+  <!-- hair wisps -->
+  <rect x="10" y="6" width="3" height="1" fill="#4A3F6B"/>
+  <rect x="19" y="6" width="3" height="1" fill="#4A3F6B"/>
+  <!-- face -->
+  <rect x="12" y="6" width="8" height="9" fill="#F5D0C5"/>
+  <!-- eyes -->
+  <rect x="13" y="9" width="2" height="2" fill="#3A3550"/>
+  <rect x="17" y="9" width="2" height="2" fill="#3A3550"/>
+  <!-- mouth -->
+  <rect x="15" y="13" width="3" height="1" fill="#C4958E"/>
+  <!-- body -->
+  <rect x="10" y="15" width="12" height="10" fill="#4A3F6B"/>
+  <!-- palette -->
+  <rect x="3" y="17" width="7" height="5" fill="#DEB887"/>
+  <rect x="4" y="18" width="1" height="1" fill="#E05A5A"/>
+  <rect x="5" y="18" width="1" height="1" fill="#89A89B"/>
+  <rect x="4" y="19" width="1" height="1" fill="#9B8EC4"/>
+  <rect x="5" y="19" width="1" height="1" fill="#D4B8C7"/>
+  <!-- brush arm -->
+  <rect x="22" y="17" width="5" height="2" fill="#4A3F6B"/>
+  <!-- legs -->
+  <rect x="12" y="25" width="4" height="4" fill="#3A3550"/>
+  <rect x="17" y="25" width="4" height="4" fill="#3A3550"/>
+</svg>

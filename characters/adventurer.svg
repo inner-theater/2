@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <rect width="32" height="32" fill="#F0EDF5"/>
+  <!-- hat -->
+  <rect x="10" y="1" width="12" height="5" fill="#8B7355"/>
+  <rect x="8" y="3" width="4" height="4" fill="#8B7355"/>
+  <!-- face -->
+  <rect x="12" y="5" width="8" height="9" fill="#F5D0C5"/>
+  <!-- eyes -->
+  <rect x="13" y="8" width="2" height="2" fill="#3A3550"/>
+  <rect x="17" y="8" width="2" height="2" fill="#3A3550"/>
+  <!-- smile -->
+  <rect x="15" y="12" width="3" height="1" fill="#C4958E"/>
+  <!-- body -->
+  <rect x="10" y="14" width="12" height="9" fill="#89A89B"/>
+  <!-- backpack -->
+  <rect x="22" y="15" width="6" height="8" fill="#6B8B7A"/>
+  <rect x="24" y="18" width="2" height="2" fill="#5A7A6A"/>
+  <!-- arms -->
+  <rect x="5" y="16" width="5" height="2" fill="#89A89B"/>
+  <!-- walking stick -->
+  <rect x="3" y="14" width="2" height="12" fill="#8B7355"/>
+  <!-- legs -->
+  <rect x="12" y="23" width="4" height="5" fill="#6B7B6A"/>
+  <rect x="17" y="23" width="4" height="5" fill="#6B7B6A"/>
+  <!-- boots -->
+  <rect x="11" y="28" width="6" height="2" fill="#5A6A5A"/>
+  <rect x="16" y="28" width="6" height="2" fill="#5A6A5A"/>
+</svg>
