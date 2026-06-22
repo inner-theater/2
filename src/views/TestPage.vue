@@ -192,9 +192,13 @@ function cancelExit() {
 }
 
 function goNext() {
-  // 必须选择当前题答案才能前进
-  if (!answers.value[current.value]) return
   if (isLast.value) {
+    // 检查是否全部答完
+    const unanswered = answers.value.findIndex(v => !v)
+    if (unanswered >= 0) {
+      current.value = unanswered
+      return
+    }
     clearInterval(timer)
     clearProgress()
     const result = answers.value.map((v, i) => ({
@@ -206,7 +210,7 @@ function goNext() {
       path: `/result/${props.type}/${props.version}`,
       state: { answers: result, time: elapsed.value }
     })
-  } else {
+  } else if (answers.value[current.value]) {
     current.value++
     saveProgress()
   }
